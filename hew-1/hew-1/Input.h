@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 #include <d3d11.h>  // DirectX11を使うためのヘッダーファイル
 //#include <DirectXMath.h> // DirextXの数学関連のヘッダーファイル
 #include <SimpleMath.h>
@@ -94,7 +93,7 @@ public:
 	static bool GetButtonPress(WORD btn);   //プレス(押している間ずっと)
 	static bool GetButtonTrigger(WORD btn); //トリガー(押し始めた時)
 	static bool GetButtonRelease(WORD btn); //リリース(押し終わった時)
-
+	
 	//振動(コントローラー)
 	//flame：振動を継続する時間(単位：フレーム)
 	//powoe：振動の強さ(0～1)
