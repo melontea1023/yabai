@@ -9,7 +9,7 @@ int Input::VibrationTime = 0;
 //コンストラクタ
 Input::Input()
 {
-
+	
 }
 
 //デストラクタ

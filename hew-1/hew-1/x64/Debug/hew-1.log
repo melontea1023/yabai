@@ -1,1 +1,16 @@
-﻿
+﻿  Application.cpp
+C:\Users\tonar\Documents\GitHub\yabai\hew-1\hew-1\Game.h(23,7): error C2143: 構文エラー: ';' が '*' の前にありません。
+C:\Users\tonar\Documents\GitHub\yabai\hew-1\hew-1\Game.h(23,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\tonar\Documents\GitHub\yabai\hew-1\hew-1\Game.h(23,16): error C2238: ';' の前に無効なトークンがあります。
+  direct3d.cpp
+C:\Users\tonar\Documents\GitHub\yabai\hew-1\hew-1\direct3d.cpp(274,10): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Game.cpp
+C:\Users\tonar\Documents\GitHub\yabai\hew-1\hew-1\Game.h(23,7): error C2143: 構文エラー: ';' が '*' の前にありません。
+C:\Users\tonar\Documents\GitHub\yabai\hew-1\hew-1\Game.h(23,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\tonar\Documents\GitHub\yabai\hew-1\hew-1\Game.h(23,16): error C2238: ';' の前に無効なトークンがあります。
+  GameScene.cpp
+  Input.cpp
+  ResultScene.cpp
+  Scene.cpp
+  TitleScene.cpp
+  コードを生成中...
